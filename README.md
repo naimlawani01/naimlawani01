@@ -31,12 +31,6 @@ En parallèle, je gère **Imrane Tech Solution** — hébergement web et infrast
 
 ---
 
-### Projets
-
-→ Voir les repos épinglés ci-dessous.
-
----
-
 ### Me contacter
 
 <p align="left">
