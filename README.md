@@ -3,10 +3,10 @@
 
 ---
 
-Ingénieur backend chez **Market Pay** : intégration API, middleware, infra cloud.
-En parallèle, je gère **Imrane Tech Solution** — hébergement web et infrastructure technique pour mes clients.
+Ingénieur backend : intégration API, middleware, infra cloud.
+Je gère aussi **Imrane Tech Solution** — hébergement web et infrastructure technique pour mes clients.
 
-- 🔭 En ce moment : migration MuleSoft → Apache Camel
+- 🔭 En ce moment : architectures d'intégration en Apache Camel
 - 🌱 J'apprends : **Symfony**
 - 💬 Parlez-moi de : **PHP, Python, API design, hébergement web**
 - 📫 Contact : **naimlawani01@gmail.com**
